@@ -5,6 +5,7 @@ function cat() {
 cat.prototype.eat = function(mouse) {
 	// body...
 	this.stomach.push(mouse);
+	
 
 };
 
